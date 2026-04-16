@@ -4,7 +4,7 @@
 **Curso:** Herramientas Básicas para el Análisis de Datos - UTN
 
 
-## 🧠 Proceso realizado
+## Proceso realizado
 
 El trabajo se desarrolló en dos etapas fundamentales:
 
